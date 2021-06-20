@@ -2,7 +2,6 @@
 
 Code for controlling the movement of the robot. 
 
-
 # Hardware
 
 1. Arduino Uno
@@ -10,7 +9,6 @@ Code for controlling the movement of the robot.
 ## Software 
 
 1. C++
-
 
 # Principle of working
 
