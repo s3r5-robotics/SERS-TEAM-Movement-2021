@@ -4,11 +4,12 @@ Code for controlling the movement of the robot.
 
 # Hardware
 
-1. Arduino Uno
+- Arduino Uno
 
 ## Software 
 
-1. C++
+- C++
+- PlatformIO
 
 # Principle of working
 
